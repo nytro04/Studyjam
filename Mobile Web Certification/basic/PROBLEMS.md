@@ -1,0 +1,3 @@
+- Correct all errors when you run index.html.
+- Background color should be white.
+- Technology & FAQ sections are not blank.
