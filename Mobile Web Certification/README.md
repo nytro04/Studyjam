@@ -34,7 +34,8 @@ Here are some of the things you'll learn:
 - Passing the exam
  - You can earn your Mobile Sites certification by passing the Mobile Sites exam. You'll also be able to highlight your expertise with a personalized, printable certificate, and a listing on your Google Partners public profile that shows that you've passed the exam.
 
-
+---
+:metal: :metal: :metal: :goberserk:
  - To partake in this study jam, you will need to prove you have at least some understanding and skill in building websites.
  - There are three levels you will need to pass to be selected to take part in this study jam.
  - Clone this repo, solve the problems in basic , novice and expert levels and submit a PR mentioning @jeanhuit & @jeffgodwyll
