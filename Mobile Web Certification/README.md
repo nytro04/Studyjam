@@ -2,7 +2,7 @@
 (Mobile Web Certification Study Jam)
 
 ---
-
+![study jam logo](/studyjam.png)
 
 If you’re a web developer, webmaster, or technical professional creating mobile websites, consider taking the Mobile Sites exam to demonstrate your expertise.
 
