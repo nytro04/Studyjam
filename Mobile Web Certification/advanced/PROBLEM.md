@@ -1,0 +1,4 @@
+- The task here is to make  the result of task in intermediate work offline.
+ - Clue: see PWA's
+- Clone the working copy of intermediates task into this directory, make offline and submit a PR.
+- Good luck
